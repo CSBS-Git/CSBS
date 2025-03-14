@@ -4,10 +4,10 @@ Welcome to the **CSBS Student GitHub Repository**! 🚀 This is a community-driv
 
 ## 📌 About  
 The **CSBS Department** blends **Computer Science** with **Business Systems**, focusing on:  
-✅ Software Development & Emerging Technologies 💻  
-✅ Data Science & Artificial Intelligence 🤖  
-✅ Business Analytics & Management 📊  
-✅ Cloud Computing & Cybersecurity ☁️🔐  
+ Software Development & Emerging Technologies 💻  
+ Data Science & Artificial Intelligence 🤖  
+ Business Analytics & Management 📊  
+ Cloud Computing & Cybersecurity ☁️🔐  
 
 ## 📁 Repository Contents  
 📂 **Projects** - Student projects, research work, and innovative ideas.  
@@ -24,6 +24,7 @@ Want to contribute? Follow these steps:
 ## 📬 Stay Connected    
 🌐 **Website**: https://kssem.edu.in/csbs_dept  
 🔗 **LinkedIn**: (https://www.linkedin.com/in/kssem-csbs-b530232b5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+📸 **Instagram**: https://www.instagram.com/kssem_csbs?igsh=ejdhcjgxaGFmY2M1
 
 Let's build, learn, and grow together! 🚀✨  
 Happy Coding! 💻🎉  
