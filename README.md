@@ -24,8 +24,9 @@ Want to contribute? Follow these steps:
 ## 📬 Stay Connected    
 🌐 **Website**: https://kssem.edu.in/csbs_dept  
 
+
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.instagram.com/kssem_csbs?igsh=ejdhcjgxaGFmY2M1) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/kssem_csbs?igsh=ejdhcjgxaGFmY2M1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kssem-csbs-b530232b5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/kssem_csbs) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kssem_csbs) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kssem-csbs) 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=CSBS-Git&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=CSBS-Git&theme=github_dark&hide_border=false)<br/>
