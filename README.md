@@ -25,8 +25,9 @@ Want to contribute? Follow these steps:
 🌐 **Website**: https://kssem.edu.in/csbs_dept  
 
 
+
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/kssem_csbs) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kssem_csbs) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kssem-csbs) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kssem_csbs) 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=CSBS-Git&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=CSBS-Git&theme=github_dark&hide_border=false)<br/>
